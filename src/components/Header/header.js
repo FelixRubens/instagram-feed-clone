@@ -4,7 +4,7 @@ import IconCamera from 'react-native-vector-icons/Feather';
 import IconPaperPlane from 'react-native-vector-icons/SimpleLineIcons';
 import { Image, View, StyleSheet } from 'react-native';
 
-import logo from '../../../assets/instagram.png'
+import logo from '../../assets/instagram.png'
 export default function Header() {
   return (
     <View style={styles.container}>
